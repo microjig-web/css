@@ -1540,9 +1540,6 @@
     .hero-overlay.product::after {
       background: rgba(255,255,255,0.65)
     }
-    .hero-overlay::after, .hero-overlay.product::after {
-      height: 100%;
-    }
   
     .shopify-buy__product-img-wrapper.shopify-buy__product-img-wrapper {
       max-height: none
