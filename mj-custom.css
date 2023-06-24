@@ -1484,9 +1484,6 @@
     .nav-dropdown .nav-title::after, .nav-link .nav-title::after {
       content: none
     }
-    .hero-overlay.product::after {
-      height: 100%
-    }
     .product-sub-nav {
       transform-style: preserve-3d
     }
