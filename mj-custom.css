@@ -293,8 +293,8 @@
   }
   
   h3, .heading-3.heading-3.heading-3.heading-3 {
-    font-size: calc(1.25rem + 1vw);
-    line-height: calc(1.75rem + 1vw);
+    font-size: calc(1.25rem + 1.5vw);
+    line-height: calc(1.75rem + 1.5vw);
     height: auto;
   }
   
