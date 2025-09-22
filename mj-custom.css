@@ -212,7 +212,19 @@
     pointer-events: none
   }
   
-  
+  sup.new-h5::after
+ {
+    content: '';
+    background: #debc8b;
+    position: absolute;
+    left: -7px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    transform: skew(-14deg, 0deg);
+    padding: 6px 24px 6px 24px;
+}
   
   
 
