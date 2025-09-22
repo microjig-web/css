@@ -212,7 +212,7 @@
     pointer-events: none
   }
   
-  sup.new-h5::after
+  .sup-h5::after
  {
     content: '';
     background: #debc8b;
